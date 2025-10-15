@@ -61,11 +61,13 @@ Projek ini menggunakan dua pendekatan algoritma/model:
 
 <br>
 <h2>4. Results</h2>
-<p>
-  <img src="Result/LSTM.jpg" width="85%" />
+   <h3>1. Tradisional Machine Learning Result:
+     <br><br>
+     <img src="Result/Tradisional_ML.jpg" width="90%" /></h3>
   <br><br>
-  <img src="Result/Tradisional_ML.jpg" width="85%" />
-</p>
+   <h3>2. Deep Learning/ Neural Network Result:
+     <br><br>
+     <img src="Result/LSTM.jpg" width="90%" /></h3>
 
 <br>
 <p align="center">📍Jakarta, 2025</p>
