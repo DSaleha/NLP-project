@@ -62,9 +62,9 @@ Projek ini menggunakan dua pendekatan algoritma/model:
 <br>
 <h2>4. Results</h2>
 <p>
-  <img src="Result/LSTM.jpg" width="80%" />
+  <img src="Result/LSTM.jpg" width="85%" />
   <br><br>
-  <img src="Result/Tradisional_ML.jpg" width="80%" />
+  <img src="Result/Tradisional_ML.jpg" width="85%" />
 </p>
 
 <br>
